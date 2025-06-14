@@ -1,39 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+<tittl>MY FIRST DESIGN</tittl>
+<body background-ccolor='red" style="alternate"></body>
 
-<head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<style type="text/css">
-.auto-style1 {
-	text-align: center;
-	font-size: larger;
-	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-	background-color: #94FF00;
-}
-.auto-style2 {
-	background-color: #FF00FF;
-}
-.auto-style3 {
-	border: 5px solid #00FFFF;
-	margin-left: 0px;
-	background-color: #FF0000;
-}
-.auto-style4 {
-	text-align: center;
-}
-.auto-style5 {
-	font-size: x-large;
-	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-}
-</style>
-</head>
-
-<body style="background-color: #FF6600">
-
-<p class="auto-style1"font-color="lime"FONTface="'Arial Black'"SIZE="200"</p>
-
-SADIJAH THE WIZARD KING&nbsp; <p class="auto-style1" font-color="lime" FONTface="'Arial Black'" SIZE="200">
-<MARQUEE behavior="alternate" class="auto-style2" style="width: 344px; height: 29px">THIS IS THE PEARL OF MUSIC GO!</MARQUEE></p>
+<p>SADIJAH THE WIZARD KING&nbsp; <p class="auto-style1" font-color="lime" FONTface="'Arial Black'" SIZE="200">
+<MARQUEE behavior="alternate" class="auto-style2" style="width: 344px; height: 29px">THIS IS THE PEARL OF MUSIC GO!</MARQUEE>
 <table align="center" cellpadding="10" cellspacing="9" class="auto-style3" style="width: 265px; height: 59px">
 	<tr>
 		<td><a href="INDEX.HTML">INDEX</a></td>
